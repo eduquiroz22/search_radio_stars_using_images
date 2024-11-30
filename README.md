@@ -28,7 +28,7 @@ The "Image Method" allows for a more accurate search for radio sources by adjust
 
 Although no definitive results can be shown at this moment, an example star, **BF Lyn**, is provided. Using the traditional **Catalog Method**, this star would be missed because no matching radio source is found in the FIRST catalog. However, using the **Image Method**, it is identified as a potential radio-emitting star.
 
-![BF Lyn Example](figures/images/PP-FIRST.jpg)
+![BF Lyn Example](PP-FIRST.jpg) ![BF Lyn Example](PP-FIRST.jpg) ![BF Lyn Example](PP-FIRST.jpg)
 
 This demonstrates the potential of the **Image Method** to detect radio-emitting stars that are not cataloged due to observational limitations.
 
@@ -37,10 +37,3 @@ This demonstrates the potential of the **Image Method** to detect radio-emitting
 While the method shows promising results, there are still limitations. One suggestion is to adjust the sigma threshold further (e.g., increase the sigma value) to refine the filtering process and reduce false positives. This would help in identifying a more precise list of radio stars.
 
 For the future, we plan to expand this method to handle larger catalogs and more detailed data, optimizing the process to detect more stars across different observational surveys.
-
-## Running the Code
-
-Instructions on how to set up the environment and run the code will be provided soon.
-
-- Install dependencies: `pip install -r requirements.txt`
-- Run the analysis: `python analyze_radio_stars.py`
