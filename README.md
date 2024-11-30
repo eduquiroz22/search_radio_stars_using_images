@@ -31,9 +31,3 @@ Although no definitive results can be shown at this moment, an example star, **B
 ![BF Lyn Example](PP-FIRST.jpg) ![BF Lyn Example](PP-VLASS_1.2.jpg) ![BF Lyn Example](PP-VLASS_2.2.jpg)
 
 This demonstrates the potential of the **Image Method** to detect radio-emitting stars that are not cataloged due to observational limitations.
-
-## Suggestions and Future Work
-
-While the method shows promising results, there are still limitations. One suggestion is to adjust the sigma threshold further (e.g., increase the sigma value) to refine the filtering process and reduce false positives. This would help in identifying a more precise list of radio stars.
-
-For the future, we plan to expand this method to handle larger catalogs and more detailed data, optimizing the process to detect more stars across different observational surveys.
