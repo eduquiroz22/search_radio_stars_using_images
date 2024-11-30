@@ -33,5 +33,5 @@ Although no definitive results can be shown at this moment, an example star, **B
 This demonstrates the potential of the **Image Method** to detect radio-emitting stars that are not cataloged due to observational limitations.
 
 ## Documentation
-For more details, you can read the full thesis document [here](https://drive.google.com/file/d/1hHid_4rCvBlYHPT8f4aXWMlTASEUOMN0/view?usp=sharing).
+For a detailed description of the work and methodology, please refer to the [here](https://drive.google.com/file/d/1hHid_4rCvBlYHPT8f4aXWMlTASEUOMN0/view?usp=sharing).
 
