@@ -31,3 +31,7 @@ Although no definitive results can be shown at this moment, an example star, **B
 ![BF Lyn Example](PP-FIRST.jpg) ![BF Lyn Example](PP-VLASS_1.2.jpg) ![BF Lyn Example](PP-VLASS_2.2.jpg)
 
 This demonstrates the potential of the **Image Method** to detect radio-emitting stars that are not cataloged due to observational limitations.
+
+## Documentation
+For more details, you can read the full thesis document [here](https://drive.google.com/file/d/1hHid_4rCvBlYHPT8f4aXWMlTASEUOMN0/view?usp=sharing).
+
